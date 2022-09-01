@@ -1,31 +1,3 @@
-<style type="text/css">
-    @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
-
-    h1 {
-        font-family: 'Roboto Condensed';
-        font-style: bold;
-    }
-
-    p {
-        font-size: 20px;
-        font-style: normal;
-        color: #40f2fe;
-    }
-
-    .link {
-        transition: 1000ms;
-        font-family: 'Roboto Condensed', 'sans-serif';
-    }
-
-    .link:link {
-        color: #c237db;
-    }
-
-    .link:hover {
-        color: #4b0082;
-    }
-</style>
-
 <a class="link" href="https://github.com/hbc-dev">
     <h1>hbc_dev</h1>
 </a>
