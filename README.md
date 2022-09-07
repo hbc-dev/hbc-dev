@@ -3,6 +3,7 @@
 </a>
 <p>
     Desarrollador independiente desde noviembre de 2020. No todo lo detallado aquí está dominado por completo.
+    Manejo un servidor partner de Discord.
 </p>
 
 <h1>Tecnologías</h1>
@@ -69,7 +70,7 @@
 
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) 
 </a>
-<a href="https://discord.gg/ABqkcBz3Hh">
+<a href="https://discord.gg/yokaiworld">
 ![Discord](https://img.shields.io/badge/YoKai_Cards-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 </a>
 <a href="https://instagram.com/hbc_dev">
