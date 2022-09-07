@@ -3,9 +3,8 @@
 </a>
 <p>
     Desarrollador independiente desde noviembre de 2020. No todo lo detallado aquí está dominado por completo.
-    
-    Manejo un servidor partner de Discord.
 </p>
+<p>Manejo un servidor partner de Discord.</p>
 
 <h1>Tecnologías</h1>
 
