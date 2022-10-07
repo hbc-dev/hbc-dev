@@ -6,6 +6,9 @@
 </p>
 <p>Manejo un servidor partner de Discord.</p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hbc-dev&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=hbc-dev&count_private=true&show_icons=true&theme=dracula)
+
 <h1>Tecnologías</h1>
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
