@@ -6,7 +6,7 @@
 </p>
 <p>Manejo un servidor partner de Discord.</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hbc-dev&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=hbc-dev&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api?username=hbc-dev&count_private=true&show_icons=true&theme=dracula)
 
 <h1>Tecnologías</h1>
