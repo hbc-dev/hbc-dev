@@ -4,7 +4,7 @@
 <p>
     Desarrollador independiente desde noviembre de 2020. No todo lo detallado aquí está dominado por completo.
 </p>
-<p>Manejo un servidor partner de Discord.</p>
+<p>Ex-manager de un servidor partner de Discord.</p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=hbc-dev&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api?username=hbc-dev&count_private=true&show_icons=true&theme=dracula)
